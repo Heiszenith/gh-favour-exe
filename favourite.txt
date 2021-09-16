@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pounded yam
 rice and beans
 Amala
+=======
+President Kuti
+Money Heist
+Power
+>>>>>>> movies
